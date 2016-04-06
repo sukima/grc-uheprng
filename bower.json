@@ -1,0 +1,30 @@
+{
+  "name": "grc-uheprng",
+  "description": "GRC's Ultra-High Entropy Pseudo-Random Number Generator",
+  "main": "uheprng.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "grc",
+    "gibson",
+    "sggrc",
+    "entropy",
+    "random",
+    "number",
+    "generator"
+  ],
+  "authors": [
+    "Gibson Research Corporation",
+    "Devin Weaver (@sukima) suki@tritarget.org"
+  ],
+  "license": "Public Domain",
+  "homepage": "https://www.grc.com/otg/uheprng.htm",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
